@@ -1,6 +1,6 @@
 {
-    "commit_after_save": false,
-    "commit_interval_minutes": 0,
+    "commit_after_save": true,
+    "commit_interval_minutes": 1,
     "folder_path": "D:\\Projects\\test-folder",
-    "remote_url": "www.github.com"
+    "remote_url": "https://github.com/AdityaH007/test-repo"
 }
