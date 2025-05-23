@@ -1,6 +1,6 @@
 {
     "commit_after_save": true,
-    "commit_interval_minutes": 2,
+    "commit_interval_minutes": 0,
     "folder_path": "D:\\Projects\\test-folder",
     "remote_url": "https://github.com/LazyBeaver007/test-repo"
 }
